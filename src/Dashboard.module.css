@@ -1,0 +1,37 @@
+.dashboardcontainer {
+    /* display:flex;
+    flex-wrap:wrap; */
+    justify-content:center;
+    margin-top:10px;
+}
+.appform {
+    display:flex;
+    justify-content: center;
+    
+}
+
+tr > th {
+    color:#3484db;
+}
+.formm {
+    
+    margin-bottom: 10px;
+}
+.carddash {
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+    background-color: white;
+    margin:10px;
+    
+}
+
+
+.center {
+    text-align: left;
+}
+
+.left {
+    text-align: left;
+}
+
